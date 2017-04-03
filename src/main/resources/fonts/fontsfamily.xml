@@ -14,4 +14,12 @@
         <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
     </fontFamily>
 
+    <fontFamily name="Calibir">
+        <normal><![CDATA[fonts/Calibri/calibri.ttf]]></normal>
+        <bold><![CDATA[fonts/Calibri/calibribd.ttf]]></bold>
+        <italic><![CDATA[fonts/Calibri/calibrii.ttf]]></italic>
+        <boldItalic><![CDATA[fonts/Calibri/calibribi.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+    </fontFamily>
 </fontFamilies>
