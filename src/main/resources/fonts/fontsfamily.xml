@@ -6,10 +6,6 @@
         <bold><![CDATA[fonts/Arial/arialbd.ttf]]></bold>
         <italic><![CDATA[fonts/Arial/ariali.ttf]]></italic>
         <boldItalic><![CDATA[fonts/Arial/arialbi.ttf]]></boldItalic>
-        <narrow><![CDATA[fonts/Arial/arialbn.ttf]]></narrow>
-        <narrowBold><![CDATA[fonts/Arial/arialnb.ttf]]></narrowBold>
-        <narrowItalic><![CDATA[fonts/Arial/arialni.ttf]]></narrowItalic>
-        <narrowBoldItalic><![CDATA[fonts/Arial/arialnbi.ttf]]></narrowBoldItalic>
         <pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
         <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
     </fontFamily>
@@ -46,6 +42,15 @@
         <bold><![CDATA[fonts/NotoSerif/notoserifbd.ttf]]></bold>
         <italic><![CDATA[fonts/NotoSerif/notoserifi.ttf]]></italic>
         <boldItalic><![CDATA[fonts/NotoSerif/notoserifbi.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+    </fontFamily>
+
+    <fontFamily name="Arial Narrow">
+        <normal><![CDATA[fonts/Arial/arialn.ttf]]></normal>
+        <bold><![CDATA[fonts/Arial/arialnbd.ttf]]></bold>
+        <italic><![CDATA[fonts/Arial/arialni.ttf]]></italic>
+        <boldItalic><![CDATA[fonts/Arial/arialnbi.ttf]]></boldItalic>
         <pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
         <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
     </fontFamily>
