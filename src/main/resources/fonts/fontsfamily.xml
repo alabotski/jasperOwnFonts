@@ -40,4 +40,13 @@
         <pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
         <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
     </fontFamily>
+
+    <fontFamily name="NotoSerif">
+        <normal><![CDATA[fonts/NotoSerif/notoserif.ttf]]></normal>
+        <bold><![CDATA[fonts/NotoSerif/notoserifbd.ttf]]></bold>
+        <italic><![CDATA[fonts/NotoSerif/notoserifi.ttf]]></italic>
+        <boldItalic><![CDATA[fonts/NotoSerif/notoserifbi.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+    </fontFamily>
 </fontFamilies>
