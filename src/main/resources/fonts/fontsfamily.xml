@@ -22,4 +22,13 @@
         <pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
         <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
     </fontFamily>
+
+    <fontFamily name="Terminus">
+        <normal><![CDATA[fonts/Terminus/terminus.ttf]]></normal>
+        <bold><![CDATA[fonts/Terminus/terminusbd.ttf]]></bold>
+        <italic><![CDATA[fonts/Terminus/terminusi.ttf]]></italic>
+        <boldItalic><![CDATA[fonts/Terminus/terminusbi.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+    </fontFamily>
 </fontFamilies>
