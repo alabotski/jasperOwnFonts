@@ -47,10 +47,10 @@
     </fontFamily>
 
     <fontFamily name="Arial Narrow">
-        <normal><![CDATA[fonts/Arial/arialn.ttf]]></normal>
-        <bold><![CDATA[fonts/Arial/arialnbd.ttf]]></bold>
-        <italic><![CDATA[fonts/Arial/arialni.ttf]]></italic>
-        <boldItalic><![CDATA[fonts/Arial/arialnbi.ttf]]></boldItalic>
+        <normal><![CDATA[fonts/Arial Narrow/arialn.ttf]]></normal>
+        <bold><![CDATA[fonts/Arial Narrow/arialnbd.ttf]]></bold>
+        <italic><![CDATA[fonts/Arial Narrow/arialni.ttf]]></italic>
+        <boldItalic><![CDATA[fonts/Arial Narrow/arialnbi.ttf]]></boldItalic>
         <pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
         <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
     </fontFamily>
